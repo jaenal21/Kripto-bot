@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+flask
+requests
+pandas
+pandas-ta
+ccxt
+matplotlib
+gunicorn
